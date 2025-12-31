@@ -24,7 +24,7 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: "3.19.0" # Sesuaikan dengan versi flutter abang
+          flutter-version: "3.27.1" # Sesuaikan dengan versi flutter abang
           channel: "stable"
 
       - name: Install dependencies
